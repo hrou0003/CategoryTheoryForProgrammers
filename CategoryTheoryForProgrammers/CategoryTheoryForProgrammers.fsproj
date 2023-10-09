@@ -52,6 +52,7 @@
         <Content Include="Chapter1\Chapter1.md" />
         <Compile Include="Program.fs" />
         <Content Include="NoteAssets\img.png" />
+        <Content Include="Chapter2\Chapter 2 - Types and Functions.md" />
     </ItemGroup>
     <Import Project="$(FSharpTargetsPath)" Condition="Exists('$(FSharpTargetsPath)')" />
     <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
