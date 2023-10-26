@@ -50,7 +50,7 @@
         <Content Include="packages.config" />
         <Compile Include="Chapter1\Challenges.fs" />
         <Content Include="Chapter1\Chapter1.md" />
-        <Content Include="NoteAssets\img.png" />
+        <Folder Include="NoteAssets\" />
         <Content Include="Chapter2\Chapter 2 - Types and Functions.md" />
         <Compile Include="Chapter2\Challenges.fs" />
         <Compile Include="Program.fs" />

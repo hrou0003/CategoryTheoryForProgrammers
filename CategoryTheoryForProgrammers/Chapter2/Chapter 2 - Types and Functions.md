@@ -50,18 +50,14 @@
           std::cout << "Hello!" << std::endl;
           return true;
       }
-  4. 
-     ```
-	int f(int x)
-	25
-	{
-	static int y = 0;
-		y += x;
-		return y;
-		}
+   4. 
+      ```
+       int f(int x) { 
+           static int y = 0;
+           y += x;
+           return y;
+       }
        ```
 5. How many different functions are there from Bool to Bool? Can you implement them all?
-![[Pasted image 20231026210216.png]]
 6. Draw a picture of a category whose only objects are the types `Void`, `()`, and `Bool`; with arrows corresponding to all of the possible functions between these types. Label the arrows with the names of the functions.
-![[Pasted image 20231026210151.png]]
-   
+   ![Challenge2.6.png](..%2FNoteAssets%2FChallenge2.6.png)

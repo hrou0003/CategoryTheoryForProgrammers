@@ -12,8 +12,7 @@
 A category is a very simple concept. It consists of *objects* and *arrows* that go between the objects. 
 
 A simple category may look like this
-![[Pasted image 20231008164018.png]]
-
+![BoolToBoolFunctions.png](..%2FNoteAssets%2FBoolToBoolFunctions.png)
 ## Arrows as Functions
 - Think of arrows as functions between types
 - These arrows can be composed to create new functions
