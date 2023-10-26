@@ -50,9 +50,10 @@
         <Content Include="packages.config" />
         <Compile Include="Chapter1\Challenges.fs" />
         <Content Include="Chapter1\Chapter1.md" />
-        <Compile Include="Program.fs" />
         <Content Include="NoteAssets\img.png" />
         <Content Include="Chapter2\Chapter 2 - Types and Functions.md" />
+        <Compile Include="Chapter2\Challenges.fs" />
+        <Compile Include="Program.fs" />
     </ItemGroup>
     <Import Project="$(FSharpTargetsPath)" Condition="Exists('$(FSharpTargetsPath)')" />
     <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

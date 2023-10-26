@@ -7,9 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e348257-133b-47ec-8de6-70f59b050626" name="Changes" comment="Chapter 1 Progress check-in">
+    <list default="true" id="9e348257-133b-47ec-8de6-70f59b050626" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter2/Challenges.fs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CategorTheoryForProgrammers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CategorTheoryForProgrammers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter1/Chapter1.md" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter1/Chapter1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/CategoryTheoryForProgrammers.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/CategoryTheoryForProgrammers.fsproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter1/Challenges.fs" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter1/Challenges.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter2/Chapter 2 - Types and Functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter2/Chapter 2 - Types and Functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Program.fs" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Program.fs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +22,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4db0f97250464a44a3b18842e4c747b637b18/06/39fe8996/LauncherManagedCore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7a20d58744d29290dba6835753a25ae1f6543aa5de7d324269640eb402e20d6/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CategoryTheoryForProgrammers/AssemblyInfo.fs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter1/Challenges.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter2/Challenges.fs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CategoryTheoryForProgrammers/Program.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CategoryTheoryForProgrammers/packages.config" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +57,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Fsi",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -58,9 +69,27 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.CategorTheoryForProgrammers">
+  <component name="RunManager" selected=".NET Static Method.Chapter2.Challenges.run">
     <configuration name="CategorTheoryForProgrammers" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CategoryTheoryForProgrammers/bin/Debug/CategoryTheoryForProgrammers.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CategoryTheoryForProgrammers/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="Chapter2" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CategoryTheoryForProgrammers/CategoryTheoryForProgrammers.fsproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Chapter2.Challenges.four_one" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -68,15 +97,40 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/CategoryTheoryForProgrammers/CategoryTheoryForProgrammers.fsproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="Chapter2.Challenges" />
+      <option name="METHOD_NAME" value="four_one" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Chapter2.Challenges.run" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CategoryTheoryForProgrammers/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CategoryTheoryForProgrammers/CategoryTheoryForProgrammers.fsproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="Chapter2.Challenges" />
+      <option name="METHOD_NAME" value="run" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.CategorTheoryForProgrammers" />
+      <item itemvalue=".NET Static Method.Chapter2.Challenges.four_one" />
+      <item itemvalue=".NET Static Method.Chapter2.Challenges.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.Chapter2.Challenges.run" />
+        <item itemvalue=".NET Static Method.Chapter2.Challenges.four_one" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696724061643</updated>
-      <workItem from="1696724062759" duration="8325000" />
+      <workItem from="1696724062759" duration="29168000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 Progress check-in">
       <option name="closed" value="true" />
@@ -96,7 +150,39 @@
       <option name="project" value="LOCAL" />
       <updated>1696733482507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chapter1 Summary Completed">
+      <option name="closed" value="true" />
+      <created>1696747605646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696747605646</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chapter 1 complete">
+      <option name="closed" value="true" />
+      <created>1696836638321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696836638321</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chapter 2 Summary">
+      <option name="closed" value="true" />
+      <created>1696845976355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696845976355</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chapter 2 Summary">
+      <option name="closed" value="true" />
+      <created>1696846104261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696846104261</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +192,13 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Chapter 1 Progress check-in" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 Progress check-in" />
+    <MESSAGE value="Chapter1 Summary Completed" />
+    <MESSAGE value="Chapter 1 complete" />
+    <MESSAGE value="Chapter 2 Summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 Summary" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
