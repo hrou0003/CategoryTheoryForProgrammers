@@ -2,6 +2,7 @@
 - Types give us granularity to understand mappings
 - They give us information about the structure of the data without specifying the data itself
 - They strengthen the syntax of the language
+- [[Strong vs. Weak and Dynamic vs. Static]]
 ## Types are about composability
 - The target of one arrow must be the same as the source object of the next arrow
 - Strong static typing give compile time errors instead of runtime errors
