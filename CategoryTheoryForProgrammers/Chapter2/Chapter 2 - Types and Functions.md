@@ -38,6 +38,12 @@
 - Functions with return type `()` are used for side effects but do not correspond to real functions in a mathematical sense. A pure function that returns unit does nothing, a function from a set $A$ to a singleton set maps every element of $A$ to the single element of the singleton.
 - The type looks like `fInt :: Integer -> ()`, the definition `fInt x = ()` and can be called by `fInt 2`
 - In the topology of types, next comes the two-element set which in Haskell would be `Bool` and can be defined `data Bool = True | False` and functions to bool are called predicates with some Haskell examples being `isDigit` or `isAlpha`
+# Monomorphisms and Epimorphisms
+- A monomorphism is equivalent to an injection for sets and functions, it states the following:
+  $f: X \to Y$
+  - In this example we can hide the where the two functions disagree by post-composing ![[Screenshot 2023-10-29 at 4.34.01 pm.png]]
+  hence, to preserve equality through post-composition $g_1 \circ f = g_{2}\circ f \implies g_{1}= g_{2}$ we must have $f$ injective.
+  - Visually, we can see the representation of how a discrepancy can be hidden in an epimorphism (surjection)![[Screenshot 2023-10-29 at 5.20.30 pm.png]]
 ## Challenges
 
 1. Define a higher-order function (or a function object) memoize in your favorite language. This function takes a pure function f as an argument and returns a function that behaves almost exactly like f, except that it only calls the original function once for every argument, stores the result internally, and subsequently returns this stored result every time it’s called with the same argument. You can tell the memoized function from the original by watching its performance. For instance, try to memoize a function that takes a long time to evaluate. You’ll have to wait for the result the first time you call it, but on subsequent calls, with the same argument, you should get the result immediately.
