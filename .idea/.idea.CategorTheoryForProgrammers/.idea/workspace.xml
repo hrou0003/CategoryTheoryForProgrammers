@@ -7,15 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e348257-133b-47ec-8de6-70f59b050626" name="Changes" comment="Chapter 3 + missing intro">
-      <change afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/NoteAssets/BoolToBoolFunctions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/NoteAssets/Drawing 2023-10-08 16.38.07.excalidraw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/NoteAssets/Pasted image 20231008163634.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/NoteAssets/Pasted image 20231026210151.png" afterDir="false" />
+    <list default="true" id="9e348257-133b-47ec-8de6-70f59b050626" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CategorTheoryForProgrammers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CategorTheoryForProgrammers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter 3 - Categories Great and Small/Chapter 3 - Categories Great and Small.md" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter 3 - Categories Great and Small/Chapter 3 - Categories Great and Small.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter1/Chapter1.md" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter1/Chapter1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter2/Chapter 2 - Types and Functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/CategoryTheoryForProgrammers/Chapter2/Chapter 2 - Types and Functions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696724061643</updated>
-      <workItem from="1696724062759" duration="29782000" />
+      <workItem from="1696724062759" duration="32102000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 Progress check-in">
       <option name="closed" value="true" />
@@ -200,7 +193,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698314837631</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixes">
+      <option name="closed" value="true" />
+      <created>1698315420848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698315420848</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added some extra notes to chapter 2, chapter 3 summary complete">
+      <option name="closed" value="true" />
+      <created>1698548670409</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698548670410</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chapter 3">
+      <option name="closed" value="true" />
+      <created>1698576161688</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698576161688</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +232,10 @@
     <MESSAGE value="Chapter 2 Summary" />
     <MESSAGE value="Chapter 2 progress" />
     <MESSAGE value="Chapter 3 + missing intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 + missing intro" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="Added some extra notes to chapter 2, chapter 3 summary complete" />
+    <MESSAGE value="chapter 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

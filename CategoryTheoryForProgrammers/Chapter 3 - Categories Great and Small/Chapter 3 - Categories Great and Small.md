@@ -73,4 +73,4 @@ let integerAdditionMonoid = {
 4. **Represent the Bool monoid with the AND operator as a category: List the morphisms and their rules of composition.**
    ![[Challenge3.4.png]]
 5. **Represent addition modulo 3 as a monoid category.**
-   ![[Challenge3.5.png]]
+   ![Challenge3.5.png](Challenge3.5.png)
